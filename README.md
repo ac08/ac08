@@ -1,4 +1,7 @@
-<h3 align="center">Hi there, I'm Andrew, a creative full-stack developer from Ohio 👋</h3>
+<div align="center">
+<img src="./assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<h3 align="center">< 👋 Hello there />, I'm Andrew, a creative full-stack developer from Ohio</h3>
+</div>
 
 ---
 
@@ -22,4 +25,4 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac08&layout=compact&theme=material-palenight" />
 </a>
 
-<img align="right" alt="GIF" height="300px" width="300px" src="./assets/sig.gif" />
+<img alt="GIF" height="500px" width="500px" background-color="transparent" src="./assets/sig.gif" />
