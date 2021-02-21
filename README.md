@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
 <img src="./assets/octo2.gif" alt="GitHub Logo" width="150" height="150" />
 
 <h3 align="center">< <img src="./assets/hi.gif" width="20"> Hello there />, I'm Andrew, a creative full-stack developer from Ohio</h3>
