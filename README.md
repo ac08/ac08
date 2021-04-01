@@ -15,6 +15,8 @@
 <p align="center">
   <img src="./assets/js.webp" width="70">
   <img src="./assets/react.webp" width="70">
+  <img src="./assets/node.webp" width="70">
+  <img src="./assets/aws.gif" width="70">
   <img src="./assets/mongo.gif" width="70">
   <img src="./assets/html.gif" width="70">
   <img src="./assets/css.gif" width="70">
