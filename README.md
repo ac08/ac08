@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I’m currently building data-driven React-packed, full-stack applications
-- 🌱 I’m currently learning more about React.js and Jamstack
+- 🌱 I’m currently learning more about React.js, Jamstack, and Amazon Alexa Skills
 - 🤔 I’m looking to create the perfect fetch with GraphQL
 
 ### Languages and Tools:
